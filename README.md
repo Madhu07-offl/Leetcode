@@ -231,6 +231,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhu2007-offical/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhu2007-offical/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhu2007-offical/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madhu2007-offical/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/madhu2007-offical/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -377,6 +378,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1657-determine-if-two-strings-are-close](https://github.com/madhu2007-offical/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madhu2007-offical/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/madhu2007-offical/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -484,6 +486,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madhu2007-offical/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhu2007-offical/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/madhu2007-offical/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -577,6 +580,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1268-search-suggestions-system](https://github.com/madhu2007-offical/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madhu2007-offical/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/madhu2007-offical/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhu2007-offical/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhu2007-offical/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |

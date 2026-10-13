@@ -115,6 +115,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhu2007-offical/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/madhu2007-offical/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhu2007-offical/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhu2007-offical/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -554,6 +555,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhu2007-offical/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/madhu2007-offical/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -676,6 +678,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0901-online-stock-span](https://github.com/madhu2007-offical/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/madhu2007-offical/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -705,6 +708,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0215-kth-largest-element-in-an-array](https://github.com/madhu2007-offical/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/madhu2007-offical/Leetcode/tree/master/1268-search-suggestions-system) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/madhu2007-offical/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/madhu2007-offical/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Interactive
 |  |
 | ------- |

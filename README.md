@@ -210,6 +210,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0739-daily-temperatures](https://github.com/madhu2007-offical/Leetcode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/madhu2007-offical/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/madhu2007-offical/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -589,6 +590,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0033-search-in-rotated-sorted-array](https://github.com/madhu2007-offical/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/madhu2007-offical/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/madhu2007-offical/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/madhu2007-offical/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/madhu2007-offical/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |

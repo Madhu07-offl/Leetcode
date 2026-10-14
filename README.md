@@ -273,6 +273,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1012-numbers-with-repeated-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/madhu2007-offical/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
@@ -306,6 +307,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/madhu2007-offical/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhu2007-offical/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
@@ -748,6 +750,10 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhu2007-offical/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/madhu2007-offical/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
 
 <br/>

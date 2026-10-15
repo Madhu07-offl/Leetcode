@@ -271,6 +271,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0022-generate-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/madhu2007-offical/Leetcode/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/madhu2007-offical/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/madhu2007-offical/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -309,6 +310,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/madhu2007-offical/Leetcode/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/madhu2007-offical/Leetcode/tree/master/0866-prime-palindrome) |
@@ -610,6 +612,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/madhu2007-offical/Leetcode/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhu2007-offical/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhu2007-offical/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Primality Test

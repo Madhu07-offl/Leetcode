@@ -277,6 +277,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0062-unique-paths](https://github.com/madhu2007-offical/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/madhu2007-offical/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/madhu2007-offical/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0338-counting-bits](https://github.com/madhu2007-offical/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/madhu2007-offical/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -587,6 +588,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/madhu2007-offical/Leetcode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/madhu2007-offical/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhu2007-offical/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhu2007-offical/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |

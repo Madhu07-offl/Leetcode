@@ -138,6 +138,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0020-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/madhu2007-offical/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/madhu2007-offical/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -274,6 +275,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0022-generate-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/madhu2007-offical/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/madhu2007-offical/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/madhu2007-offical/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/madhu2007-offical/Leetcode/tree/master/0435-non-overlapping-intervals) |

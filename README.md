@@ -199,6 +199,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0033-search-in-rotated-sorted-array](https://github.com/madhu2007-offical/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/madhu2007-offical/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/madhu2007-offical/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/madhu2007-offical/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhu2007-offical/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -595,6 +596,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/madhu2007-offical/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/madhu2007-offical/Leetcode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/madhu2007-offical/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhu2007-offical/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |

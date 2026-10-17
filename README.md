@@ -245,6 +245,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhu2007-offical/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/madhu2007-offical/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/madhu2007-offical/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/madhu2007-offical/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhu2007-offical/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -517,6 +518,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhu2007-offical/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/madhu2007-offical/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhu2007-offical/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/madhu2007-offical/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -601,6 +603,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0735-asteroid-collision](https://github.com/madhu2007-offical/Leetcode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/madhu2007-offical/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -742,6 +745,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1268-search-suggestions-system](https://github.com/madhu2007-offical/Leetcode/tree/master/1268-search-suggestions-system) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/madhu2007-offical/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/madhu2007-offical/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/madhu2007-offical/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/madhu2007-offical/Leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Interactive
 |  |

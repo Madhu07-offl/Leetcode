@@ -815,6 +815,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/madhu2007-offical/Leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/madhu2007-offical/Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/madhu2007-offical/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 

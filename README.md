@@ -822,6 +822,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/madhu2007-offical/Leetcode/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/madhu2007-offical/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/madhu2007-offical/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/madhu2007-offical/Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/madhu2007-offical/Leetcode/tree/master/1068-product-sales-analysis-i) |

@@ -172,6 +172,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhu2007-offical/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/madhu2007-offical/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhu2007-offical/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -352,6 +353,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhu2007-offical/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/madhu2007-offical/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/madhu2007-offical/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhu2007-offical/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |

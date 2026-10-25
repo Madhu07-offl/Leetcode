@@ -228,6 +228,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1004-max-consecutive-ones-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/madhu2007-offical/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/madhu2007-offical/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/madhu2007-offical/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1386-cinema-seat-allocation](https://github.com/madhu2007-offical/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
@@ -409,6 +410,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0835-image-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/madhu2007-offical/Leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/madhu2007-offical/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/madhu2007-offical/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhu2007-offical/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -455,6 +457,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0841-keys-and-rooms](https://github.com/madhu2007-offical/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/madhu2007-offical/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/madhu2007-offical/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -471,6 +474,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0994-rotting-oranges](https://github.com/madhu2007-offical/Leetcode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/madhu2007-offical/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/madhu2007-offical/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -666,6 +670,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0399-evaluate-division](https://github.com/madhu2007-offical/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/madhu2007-offical/Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/madhu2007-offical/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/madhu2007-offical/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree

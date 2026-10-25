@@ -865,6 +865,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/madhu2007-offical/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/madhu2007-offical/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/madhu2007-offical/Leetcode/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/madhu2007-offical/Leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/madhu2007-offical/Leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/madhu2007-offical/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

@@ -153,6 +153,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0649-dota2-senate](https://github.com/madhu2007-offical/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
+| [0843-guess-the-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0843-guess-the-word) |
 | [0856-score-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/madhu2007-offical/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -223,6 +224,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0746-min-cost-climbing-stairs](https://github.com/madhu2007-offical/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0835-image-overlap) |
+| [0843-guess-the-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0843-guess-the-word) |
 | [0875-koko-eating-bananas](https://github.com/madhu2007-offical/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/madhu2007-offical/Leetcode/tree/master/0994-rotting-oranges) |
@@ -345,6 +347,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0062-unique-paths](https://github.com/madhu2007-offical/Leetcode/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0843-guess-the-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0843-guess-the-word) |
 | [0866-prime-palindrome](https://github.com/madhu2007-offical/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
@@ -376,6 +379,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Game Theory
 |  |
 | ------- |
+| [0843-guess-the-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
@@ -397,6 +401,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Minimax
 |  |
 | ------- |
+| [0843-guess-the-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0843-guess-the-word) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
@@ -801,6 +806,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/madhu2007-offical/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0843-guess-the-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0843-guess-the-word) |
 ## Binary Search Tree
 |  |
 | ------- |
